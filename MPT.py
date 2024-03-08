@@ -121,11 +121,3 @@ optimal_sharpe = Sharpe_ratio_optimization(stock_data, 0.01)
 plt.figure(figsize=(12,8), dpi=600)
 sns.scatterplot(data=Optimized_portfolios, x= 'Volatility', y= 'Returns', hue= 'Returns', palette='viridis')
 
-
-
-
-
-
-
-
-    
