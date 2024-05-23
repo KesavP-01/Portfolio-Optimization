@@ -18,9 +18,10 @@ This project focuses on portfolio optimization using various techniques such as 
 - Palantir Technologies Inc. (PLTR)
 
 ## Results
-![Frontier Curve](https://github.com/KesavP-01/Portfolio-Optimization/assets/161378031/e209ee82-a3cc-4018-a3f1-6c30d1e7f702)
+![Frontier Curve](https://github.com/KesavP-01/Portfolio-Optimization/assets/161378031/81bc3d6f-b333-461c-8bab-65d1e8637ea7)
 
-#### Achieved 11% return with volatiliy of 23%, upon Sharpe ratio Optimization.
+
+#### Achieved 67.88% return with volatiliy of 17.54%, upon Sharpe ratio Optimization.
 
 
 
